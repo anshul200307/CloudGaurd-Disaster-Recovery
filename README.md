@@ -16,7 +16,7 @@ Amazon SNS
 
 
 
-#Workflow
+# Workflow
 
 1. User uploads file to S3 (Mumbai)
 
@@ -30,7 +30,7 @@ Amazon SNS
 4. SNS sends email notification
 
 
-#Features
+# Features
 
 Cross-region backup
 
@@ -42,6 +42,6 @@ S3 versioning enabled
 
 
 
-#Conclusion
+# Conclusion
 
 A simple serverless solution to ensure data backup, availability, and monitoring using AWS.
